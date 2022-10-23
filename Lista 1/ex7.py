@@ -7,7 +7,3 @@ if a>b:
 	print(a)
 elif
 	print(b)
-
-
-
-
