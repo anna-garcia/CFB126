@@ -6,5 +6,3 @@
 
 mb=int(input("Insira o tamanho do seu arquivo:"))
 mbps=int(input("Insira a velocidade de Download da sua internet:"))
-
-
